@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# Beispiel-Daten: Zahlen von 0 bis 9 und ihre Quadrate
+# Beispiel-Daten: Zahlen von 0 bis 9 und ihre Quadrat -und Kubikzahlen
 x = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 y = [i**2 for i in x]  # Quadratzahlen
 z = [i**3 for i in x]  # Kubikzahlen
